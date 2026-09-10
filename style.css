@@ -22,7 +22,7 @@ body {
 }
 
 .topo-unico::before {
-    content: "✿";
+    content: "♡";
     position: absolute;
     left: 35px;
     font-size: 28px;
